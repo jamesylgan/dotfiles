@@ -1,6 +1,6 @@
 [user]
-	name = Courtney (CJ) Oka
-	email = courtney.oka@affirm.com
+	name = James Gan
+	email = james.gan@affirm.com
 [core]
 	editor = vim
 	pager = less -F -X
@@ -27,7 +27,7 @@
 [help]
 	autocorrect = 15
 [github]
-	user = oakeyc
+	user = jamesylgan
 [credential]
 	helper = osxkeychain
 [init]
