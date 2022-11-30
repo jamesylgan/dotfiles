@@ -12,9 +12,10 @@ dotfs=$(cd $(dirname $0) && pwd)
 
 sym "$dotfs"
 
-git clone git@github.com:oakeyc/SecretDotfiles.git ~/.dotfiles/SecretDotfiles
+# todo - use this, document secretdotfiles, maybe change it to fetch username?
+# git clone git@github.com:jamesylgan/SecretDotfiles.git ~/.dotfiles/SecretDotfiles
 
-export PATH=$PATH:~/.dotfiles/SecretDotfiles
+# export PATH=$PATH:~/.dotfiles/SecretDotfiles
 
-~/.dotfiles/SecretDotfiles/install.sh
+# ~/.dotfiles/SecretDotfiles/install.sh
 
